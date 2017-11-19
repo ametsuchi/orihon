@@ -17,7 +17,6 @@ class CreateSvgClass{
     $this->strs = file_get_contents('./sample.txt');
     
 
-    // 1行単位、1page単位に分割
     $tmp_strs = explode("\n",$this->strs);
     
     $contents = [];
@@ -70,8 +69,8 @@ EOT;
       fwrite($fp,$svg_header . PHP_EOL);
 
       $x = 0;
-      fwrite($fp,'<line x1="360" y1="0" x2="400" y2="10" stroke="red" stroke-width="1"/>');
       
+      // 1-4p
       foreach($this->contents as $i => $page){
         
         fwrite($fp,'<text transform="rotate(90 0 0) translate(' .$x . ',-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">' . PHP_EOL);
@@ -80,23 +79,40 @@ EOT;
         }
 
         fwrite($fp,'</text>' . PHP_EOL);
-// TODO:debug
-fwrite($fp,'<line x1="" y1="' .$x . '" x2="20" y2="' .$x . '" stroke="red" stroke-width="1"/>');
-        
+// TODO:ノンブル入れたい        
         if($i == 3){
           break;
         }
         $x += 263;
       }
 
-      // 逆向き
-      fwrite($fp,'<text transform="rotate(-90 0 0) translate(-261,395)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">' . PHP_EOL);
+      // 表紙、裏表紙
+      $x = -263;
+      fwrite($fp,'<text transform="rotate(-90 0 0) translate('.$x.',395)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">' . PHP_EOL);
+      fwrite($fp,'<tspan x="10" y="230px">表紙</tspan>');
+      fwrite($fp,'</text>' . PHP_EOL);
+      $x += -263;
+      fwrite($fp,'<text transform="rotate(-90 0 0) translate('.$x.',395)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">' . PHP_EOL);
+      fwrite($fp,'<tspan x="10" y="230px">裏表紙</tspan>');
+      fwrite($fp,'</text>' . PHP_EOL);
+      
+      
+      //6p 
+      $x += -263;
+      fwrite($fp,'<text transform="rotate(-90 0 0) translate('.$x.',395)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">' . PHP_EOL);
+      if(isset($this->contents[5]))
+      foreach($this->contents[5] as $i => $line){
+        fwrite($fp,'<tspan x="10" y="' . $i *14 . 'px">'.$line.'</tspan>' . PHP_EOL);
+      }
+      fwrite($fp,'</text>' . PHP_EOL);
+      // 5p
+      $x += -263;
+      fwrite($fp,'<text transform="rotate(-90 0 0) translate('.$x.',395)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">' . PHP_EOL);
+      if(isset($this->contents[4]))
       foreach($this->contents[4] as $i => $line){
         fwrite($fp,'<tspan x="10" y="' . $i *14 . 'px">'.$line.'</tspan>' . PHP_EOL);
       }
-
       fwrite($fp,'</text>' . PHP_EOL);
-    
 
       fwrite($fp,'</svg>' . PHP_EOL);
       fclose($fp);
