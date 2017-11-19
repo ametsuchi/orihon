@@ -46,7 +46,7 @@ class CreateSvgClass{
       }
       //行末禁則処理
       if($lines_size > $i && 1 == preg_match('/(\(|\[|｛|〔|〈|《|「|『|【|〘|〖|〝|\‘|“|｟|«)$/',$lines[$i],$m)){
-        $lines[$i] = mb_substr($lines[$i],0,mb_strlen($lines[$i]));
+        $lines[$i] = mb_substr($lines[$i],0,mb_strlen($lines[$i]) - 1);
         $lines[$i +1] = $m[0] . $lines[$i + 1];
       }
       
@@ -74,12 +74,13 @@ EOT;
       foreach($this->contents as $i => $page){
         
         fwrite($fp,'<text transform="rotate(90 0 0) translate(' .$x . ',-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">' . PHP_EOL);
-        foreach($page as $i => $line){
-          fwrite($fp,'<tspan x="10" y="' . $i *14 . 'px">'.$line.'</tspan>' . PHP_EOL);
+        foreach($page as $n => $line){
+          fwrite($fp,'<tspan x="10" y="' . $n *14 . 'px">'.$line.'</tspan>' . PHP_EOL);
         }
 
         fwrite($fp,'</text>' . PHP_EOL);
-// TODO:ノンブル入れたい        
+        // ノンブル
+        fwrite($fp,'<text font-size="4" transform="rotate(90 0 0) translate(' .($x +130) . ',-10)">' . ($i +1) . '</text>');
         if($i == 3){
           break;
         }
@@ -105,7 +106,8 @@ EOT;
         fwrite($fp,'<tspan x="10" y="' . $i *14 . 'px">'.$line.'</tspan>' . PHP_EOL);
       }
       fwrite($fp,'</text>' . PHP_EOL);
-      // 5p
+      fwrite($fp,'<text font-size="4" transform="rotate(-90 0 0) translate(' .($x + 130) . ',730)">6</text>');
+        // 5p
       $x += -263;
       fwrite($fp,'<text transform="rotate(-90 0 0) translate('.$x.',395)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">' . PHP_EOL);
       if(isset($this->contents[4]))
@@ -113,7 +115,8 @@ EOT;
         fwrite($fp,'<tspan x="10" y="' . $i *14 . 'px">'.$line.'</tspan>' . PHP_EOL);
       }
       fwrite($fp,'</text>' . PHP_EOL);
-
+      fwrite($fp,'<text font-size="4" transform="rotate(-90 0 0) translate(' .($x + 130) . ',730)">5</text>');
+      
       fwrite($fp,'</svg>' . PHP_EOL);
       fclose($fp);
     }

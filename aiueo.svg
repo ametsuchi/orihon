@@ -4,10 +4,10 @@
       <line x1="" y1="74.25mm" x2="210mm" y2="74.25mm" stroke="#cccccc" stroke-width="1"/>
       <line x1="" y1="148.5mm" x2="210mm" y2="148.5mm" stroke="#cccccc" stroke-width="1"/>
       <line x1="" y1="223mm" x2="210mm" y2="223mm" stroke="#cccccc" stroke-width="1"/>
-<line x1="360" y1="0" x2="400" y2="10" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(0,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
+<text transform="rotate(90 0 0) translate(0,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
 <tspan x="10" y="0px">一、午后ごごの授業</tspan>
 <tspan x="10" y="14px"></tspan>
-<tspan x="10" y="28px">「ではみなさんは、そういうふうに川だと云いわれたり、乳の流(</tspan>
+<tspan x="10" y="28px">「ではみなさんは、そういうふうに川だと云いわれたり、乳の流</tspan>
 <tspan x="10" y="42px">(れたあとだと云われたりしていたこのぼんやりと白いものがほんと</tspan>
 <tspan x="10" y="56px">うは何かご承知ですか。」先生は、黒板に吊つるした大きな黒い星</tspan>
 <tspan x="10" y="70px">座の図の、上から下へ白くけぶった銀河帯のようなところを指さし</tspan>
@@ -30,7 +30,7 @@
 <tspan x="10" y="308px">ことができませんでした。</tspan>
 <tspan x="10" y="322px">　先生はしばらく困ったようすでしたが、眼めをカムパネルラの方</tspan>
 </text>
-<line x1="" y1="0" x2="20" y2="0" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(263,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
+<text font-size="4" transform="rotate(90 0 0) translate(130,-10)">1</text><text transform="rotate(90 0 0) translate(263,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
 <tspan x="10" y="0px">へ向けて、</tspan>
 <tspan x="10" y="14px">「ではカムパネルラさん。」と名指しました。するとあんなに元気</tspan>
 <tspan x="10" y="28px">に手をあげたカムパネルラが、やはりもじもじ立ち上ったままやは</tspan>
@@ -56,7 +56,7 @@
 <tspan x="10" y="308px">ネルラがそれを知って気の毒がってわざと返事をしなかったのだ、</tspan>
 <tspan x="10" y="322px">そう考えるとたまらないほど、じぶんもカムパネルラもあわれなよ</tspan>
 </text>
-<line x1="" y1="263" x2="20" y2="263" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(526,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
+<text font-size="4" transform="rotate(90 0 0) translate(393,-10)">2</text><text transform="rotate(90 0 0) translate(526,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
 <tspan x="10" y="0px">うな気がするのでした。</tspan>
 <tspan x="10" y="14px">　先生はまた云いました。</tspan>
 <tspan x="10" y="28px">「ですからもしもこの天あまの川がわがほんとうに川だと考えるな</tspan>
@@ -82,7 +82,7 @@
 <tspan x="10" y="308px">やこっちの方はガラスが厚いので、光る粒即ち星がたくさん見えそ</tspan>
 <tspan x="10" y="322px">の遠いのはぼうっと白く見えるというこれがつまり今日の銀河の説</tspan>
 </text>
-<line x1="" y1="526" x2="20" y2="526" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(789,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
+<text font-size="4" transform="rotate(90 0 0) translate(656,-10)">3</text><text transform="rotate(90 0 0) translate(789,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
 <tspan x="10" y="0px">なのです。そんならこのレンズの大きさがどれ位あるかまたその中</tspan>
 <tspan x="10" y="14px">のさまざまの星についてはもう時間ですからこの次の理科の時間に</tspan>
 <tspan x="10" y="28px">お話します。では今日はその銀河のお祭なのですからみなさんは外</tspan>
@@ -108,267 +108,7 @@
 <tspan x="10" y="308px">大きな扉とをあけました。中にはまだ昼なのに電燈がついてたくさ</tspan>
 <tspan x="10" y="322px">んの輪転器がばたりばたりとまわり、きれで頭をしばったりラムプ</tspan>
 </text>
-<line x1="" y1="789" x2="20" y2="789" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(1052,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
-<tspan x="10" y="0px">シェードをかけたりした人たちが、何か歌うように読んだり数えた</tspan>
-<tspan x="10" y="14px">りしながらたくさん働いて居おりました。</tspan>
-<tspan x="10" y="28px">　ジョバンニはすぐ入口から三番目の高い卓子テーブルに座すわっ</tspan>
-<tspan x="10" y="42px">た人の所へ行っておじぎをしました。その人はしばらく棚たなをさ</tspan>
-<tspan x="10" y="56px">がしてから、</tspan>
-<tspan x="10" y="70px">「これだけ拾って行けるかね。」と云いながら、一枚の紙切れを渡</tspan>
-<tspan x="10" y="84px">わたしました。ジョバンニはその人の卓子の足もとから一つの小さ</tspan>
-<tspan x="10" y="98px">な平たい函はこをとりだして向うの電燈のたくさんついた、たてか</tspan>
-<tspan x="10" y="112px">けてある壁かべの隅の所へしゃがみ込こむと小さなピンセットでま</tspan>
-<tspan x="10" y="126px">るで粟粒あわつぶぐらいの活字を次から次と拾いはじめました。青</tspan>
-<tspan x="10" y="140px">い胸あてをした人がジョバンニのうしろを通りながら、</tspan>
-<tspan x="10" y="154px">「よう、虫めがね君、お早う。」と云いますと、近くの四五人の人</tspan>
-<tspan x="10" y="168px">たちが声もたてずこっちも向かずに冷くわらいました。</tspan>
-<tspan x="10" y="182px">　ジョバンニは何べんも眼を拭ぬぐいながら活字をだんだんひろい</tspan>
-<tspan x="10" y="196px">ました。</tspan>
-<tspan x="10" y="210px">　六時がうってしばらくたったころ、ジョバンニは拾った活字をいっ</tspan>
-<tspan x="10" y="224px">ぱいに入れた平たい箱はこをもういちど手にもった紙きれと引き</tspan>
-<tspan x="10" y="238px">合せてから、さっきの卓子の人へ持って来ました。その人は黙だまっ</tspan>
-<tspan x="10" y="252px">てそれを受け取って微かすかにうなずきました。</tspan>
-<tspan x="10" y="266px">　ジョバンニはおじぎをすると扉をあけてさっきの計算台のところ</tspan>
-<tspan x="10" y="280px">に来ました。するとさっきの白服を着た人がやっぱりだまって小さ</tspan>
-<tspan x="10" y="294px">な銀貨を一つジョバンニに渡しました。ジョバンニは俄にわかに顔</tspan>
-<tspan x="10" y="308px">いろがよくなって威勢いせいよくおじぎをすると台の下に置いた鞄</tspan>
-<tspan x="10" y="322px">かばんをもっておもてへ飛びだしました。それから元気よく口笛く</tspan>
-</text>
-<line x1="" y1="1052" x2="20" y2="1052" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(1315,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
-<tspan x="10" y="0px">ちぶえを吹ふきながらパン屋へ寄ってパンの塊かたまりを一つと角</tspan>
-<tspan x="10" y="14px">砂糖を一袋ふくろ買いますと一目散いちもくさんに走りだしました。</tspan>
-<tspan x="10" y="28px"></tspan>
-<tspan x="10" y="42px"></tspan>
-<tspan x="10" y="56px">三、家</tspan>
-<tspan x="10" y="70px"></tspan>
-<tspan x="10" y="84px">　ジョバンニが勢いきおいよく帰って来たのは、ある裏町の小さな</tspan>
-<tspan x="10" y="98px">家でした。その三つならんだ入口の一番左側には空箱に紫むらさき</tspan>
-<tspan x="10" y="112px">いろのケールやアスパラガスが植えてあって小さな二つの窓には日</tspan>
-<tspan x="10" y="126px">覆ひおおいが下りたままになっていました。</tspan>
-<tspan x="10" y="140px">「お母っかさん。いま帰ったよ。工合ぐあい悪くなかったの。」ジョ</tspan>
-<tspan x="10" y="154px">バンニは靴をぬぎながら云いました。</tspan>
-<tspan x="10" y="168px">「ああ、ジョバンニ、お仕事がひどかったろう。今日は涼すずしく</tspan>
-<tspan x="10" y="182px">てね。わたしはずうっと工合がいいよ。」</tspan>
-<tspan x="10" y="196px">　ジョバンニは玄関げんかんを上って行きますとジョバンニのお母</tspan>
-<tspan x="10" y="210px">さんがすぐ入口の室へやに白い巾きれを被かぶって寝やすんでいた</tspan>
-<tspan x="10" y="224px">のでした。ジョバンニは窓をあけました。</tspan>
-<tspan x="10" y="238px">「お母さん。今日は角砂糖を買ってきたよ。牛乳に入れてあげよう</tspan>
-<tspan x="10" y="252px">と思って。」</tspan>
-<tspan x="10" y="266px">「ああ、お前さきにおあがり。あたしはまだほしくないんだから。」</tspan>
-<tspan x="10" y="280px"></tspan>
-<tspan x="10" y="294px">「お母さん。姉さんはいつ帰ったの。」</tspan>
-<tspan x="10" y="308px">「ああ三時ころ帰ったよ。みんなそこらをしてくれてね。」</tspan>
-<tspan x="10" y="322px">「お母さんの牛乳は来ていないんだろうか。」</tspan>
-</text>
-<line x1="" y1="1315" x2="20" y2="1315" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(1578,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
-<tspan x="10" y="0px">「来なかったろうかねえ。」</tspan>
-<tspan x="10" y="14px">「ぼく行ってとって来よう。」</tspan>
-<tspan x="10" y="28px">「あああたしはゆっくりでいいんだからお前さきにおあがり、姉さ</tspan>
-<tspan x="10" y="42px">んがね、トマトで何かこしらえてそこへ置いて行ったよ。」</tspan>
-<tspan x="10" y="56px">「ではぼくたべよう。」</tspan>
-<tspan x="10" y="70px">　ジョバンニは窓のところからトマトの皿さらをとってパンといっ</tspan>
-<tspan x="10" y="84px">しょにしばらくむしゃむしゃたべました。</tspan>
-<tspan x="10" y="98px">「ねえお母さん。ぼくお父さんはきっと間もなく帰ってくると思う</tspan>
-<tspan x="10" y="112px">よ。」</tspan>
-<tspan x="10" y="126px">「あああたしもそう思う。けれどもおまえはどうしてそう思うの。」</tspan>
-<tspan x="10" y="140px"></tspan>
-<tspan x="10" y="154px">「だって今朝の新聞に今年は北の方の漁は大へんよかったと書いて</tspan>
-<tspan x="10" y="168px">あったよ。」</tspan>
-<tspan x="10" y="182px">「ああだけどねえ、お父さんは漁へ出ていないかもしれない。」</tspan>
-<tspan x="10" y="196px">「きっと出ているよ。お父さんが監獄かんごくへ入るようなそんな</tspan>
-<tspan x="10" y="210px">悪いことをした筈はずがないんだ。この前お父さんが持ってきて学</tspan>
-<tspan x="10" y="224px">校へ寄贈きぞうした巨おおきな蟹かにの甲こうらだのとなかいの角</tspan>
-<tspan x="10" y="238px">だの今だってみんな標本室にあるんだ。六年生なんか授業のとき先</tspan>
-<tspan x="10" y="252px">生がかわるがわる教室へ持って行くよ。一昨年修学旅行で〔以下数</tspan>
-<tspan x="10" y="266px">文字分空白〕</tspan>
-<tspan x="10" y="280px">「お父さんはこの次はおまえにラッコの上着をもってくるといった</tspan>
-<tspan x="10" y="294px">ねえ。」</tspan>
-<tspan x="10" y="308px">「みんながぼくにあうとそれを云うよ。ひやかすように云うんだ。」</tspan>
-<tspan x="10" y="322px"></tspan>
-</text>
-<line x1="" y1="1578" x2="20" y2="1578" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(1841,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
-<tspan x="10" y="0px">「おまえに悪口を云うの。」</tspan>
-<tspan x="10" y="14px">「うん、けれどもカムパネルラなんか決して云わない。カムパネル</tspan>
-<tspan x="10" y="28px">ラはみんながそんなことを云うときは気の毒そうにしているよ。」</tspan>
-<tspan x="10" y="42px">「あの人はうちのお父さんとはちょうどおまえたちのように小さい</tspan>
-<tspan x="10" y="56px">ときからのお友達だったそうだよ。」</tspan>
-<tspan x="10" y="70px">「ああだからお父さんはぼくをつれてカムパネルラのうちへもつれ</tspan>
-<tspan x="10" y="84px">て行ったよ。あのころはよかったなあ。ぼくは学校から帰る途中と</tspan>
-<tspan x="10" y="98px">ちゅうたびたびカムパネルラのうちに寄った。カムパネルラのうち</tspan>
-<tspan x="10" y="112px">にはアルコールラムプで走る汽車があったんだ。レールを七つ組み</tspan>
-<tspan x="10" y="126px">合せると円くなってそれに電柱や信号標もついていて信号標のあか</tspan>
-<tspan x="10" y="140px">りは汽車が通るときだけ青くなるようになっていたんだ。いつかア</tspan>
-<tspan x="10" y="154px">ルコールがなくなったとき石油をつかったら、罐かまがすっかり煤</tspan>
-<tspan x="10" y="168px">すすけたよ。」</tspan>
-<tspan x="10" y="182px">「そうかねえ。」</tspan>
-<tspan x="10" y="196px">「いまも毎朝新聞をまわしに行くよ。けれどもいつでも家中まだしぃ</tspan>
-<tspan x="10" y="210px">んとしているからな。」</tspan>
-<tspan x="10" y="224px">「早いからねえ。」</tspan>
-<tspan x="10" y="238px">「ザウエルという犬がいるよ。しっぽがまるで箒ほうきのようだ。</tspan>
-<tspan x="10" y="252px">ぼくが行くと鼻を鳴らしてついてくるよ。ずうっと町の角までつい</tspan>
-<tspan x="10" y="266px">てくる。もっとついてくることもあるよ。今夜はみんなで烏瓜から</tspan>
-<tspan x="10" y="280px">すうりのあかりを川へながしに行くんだって。きっと犬もついて行</tspan>
-<tspan x="10" y="294px">くよ。」</tspan>
-<tspan x="10" y="308px">「そうだ。今晩は銀河のお祭だねえ。」</tspan>
-<tspan x="10" y="322px">「うん。ぼく牛乳をとりながら見てくるよ。」</tspan>
-</text>
-<line x1="" y1="1841" x2="20" y2="1841" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(2104,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
-<tspan x="10" y="0px">「ああ行っておいで。川へははいらないでね。」</tspan>
-<tspan x="10" y="14px">「ああぼく岸から見るだけなんだ。一時間で行ってくるよ。」</tspan>
-<tspan x="10" y="28px">「もっと遊んでおいで。カムパネルラさんと一緒いっしょなら心配</tspan>
-<tspan x="10" y="42px">はないから。」</tspan>
-<tspan x="10" y="56px">「ああきっと一緒だよ。お母さん、窓をしめて置こうか。」</tspan>
-<tspan x="10" y="70px">「ああ、どうか。もう涼しいからね」</tspan>
-<tspan x="10" y="84px">　ジョバンニは立って窓をしめお皿やパンの袋を片附かたづけると</tspan>
-<tspan x="10" y="98px">勢よく靴をはいて</tspan>
-<tspan x="10" y="112px">「では一時間半で帰ってくるよ。」と云いながら暗い戸口を出まし</tspan>
-<tspan x="10" y="126px">た。</tspan>
-<tspan x="10" y="140px"></tspan>
-<tspan x="10" y="154px">四、ケンタウル祭の夜</tspan>
-<tspan x="10" y="168px"></tspan>
-<tspan x="10" y="182px">　ジョバンニは、口笛を吹いているようなさびしい口付きで、檜ひ</tspan>
-<tspan x="10" y="196px">のきのまっ黒にならんだ町の坂を下りて来たのでした。</tspan>
-<tspan x="10" y="210px">　坂の下に大きな一つの街燈が、青白く立派に光って立っていまし</tspan>
-<tspan x="10" y="224px">た。ジョバンニが、どんどん電燈の方へ下りて行きますと、いまま</tspan>
-<tspan x="10" y="238px">でばけもののように、長くぼんやり、うしろへ引いていたジョバン</tspan>
-<tspan x="10" y="252px">ニの影かげぼうしは、だんだん濃こく黒くはっきりなって、足をあ</tspan>
-<tspan x="10" y="266px">げたり手を振ふったり、ジョバンニの横の方へまわって来るのでし</tspan>
-<tspan x="10" y="280px">た。</tspan>
-<tspan x="10" y="294px">（ぼくは立派な機関車だ。ここは勾配こうばいだから速いぞ。ぼく</tspan>
-<tspan x="10" y="308px">はいまその電燈を通り越こす。そうら、こんどはぼくの影法師はコ</tspan>
-<tspan x="10" y="322px">ムパスだ。あんなにくるっとまわって、前の方へ来た。）</tspan>
-</text>
-<line x1="" y1="2104" x2="20" y2="2104" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(2367,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
-<tspan x="10" y="0px">とジョバンニが思いながら、大股おおまたにその街燈の下を通り過</tspan>
-<tspan x="10" y="14px">ぎたとき、いきなりひるまのザネリが、新らしいえりの尖とがった</tspan>
-<tspan x="10" y="28px">シャツを着て電燈の向う側の暗い小路こうじから出て来て、ひらっ</tspan>
-<tspan x="10" y="42px">とジョバンニとすれちがいました。</tspan>
-<tspan x="10" y="56px">「ザネリ、烏瓜ながしに行くの。」ジョバンニがまだそう云ってし</tspan>
-<tspan x="10" y="70px">まわないうちに、</tspan>
-<tspan x="10" y="84px">「ジョバンニ、お父さんから、らっこの上着が来るよ。」その子が</tspan>
-<tspan x="10" y="98px">投げつけるようにうしろから叫さけびました。</tspan>
-<tspan x="10" y="112px">　ジョバンニは、ばっと胸がつめたくなり、そこら中きぃんと鳴る</tspan>
-<tspan x="10" y="126px">ように思いました。</tspan>
-<tspan x="10" y="140px">「何だい。ザネリ。」とジョバンニは高く叫び返しましたがもうザ</tspan>
-<tspan x="10" y="154px">ネリは向うのひばの植った家の中へはいっていました。</tspan>
-<tspan x="10" y="168px">「ザネリはどうしてぼくがなんにもしないのにあんなことを云うの</tspan>
-<tspan x="10" y="182px">だろう。走るときはまるで鼠ねずみのようなくせに。ぼくがなんに</tspan>
-<tspan x="10" y="196px">もしないのにあんなことを云うのはザネリがばかなからだ。」</tspan>
-<tspan x="10" y="210px">　ジョバンニは、せわしくいろいろのことを考えながら、さまざま</tspan>
-<tspan x="10" y="224px">の灯あかりや木の枝えだで、すっかりきれいに飾かざられた街を通っ</tspan>
-<tspan x="10" y="238px">て行きました。時計屋の店には明るくネオン燈がついて、一秒ご</tspan>
-<tspan x="10" y="252px">とに石でこさえたふくろうの赤い眼めが、くるっくるっとうごいた</tspan>
-<tspan x="10" y="266px">り、いろいろな宝石が海のような色をした厚い硝子ガラスの盤ばん</tspan>
-<tspan x="10" y="280px">に載のって星のようにゆっくり循めぐったり、また向う側から、銅</tspan>
-<tspan x="10" y="294px">の人馬がゆっくりこっちへまわって来たりするのでした。そのまん</tspan>
-<tspan x="10" y="308px">中に円い黒い星座早見が青いアスパラガスの葉で飾ってありました。</tspan>
-<tspan x="10" y="322px"></tspan>
-</text>
-<line x1="" y1="2367" x2="20" y2="2367" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(2630,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
-<tspan x="10" y="0px">　ジョバンニはわれを忘れて、その星座の図に見入りました。</tspan>
-<tspan x="10" y="14px">　それはひる学校で見たあの図よりはずうっと小さかったのですが</tspan>
-<tspan x="10" y="28px">その日と時間に合せて盤をまわすと、そのとき出ているそらがその</tspan>
-<tspan x="10" y="42px">まま楕円形だえんけいのなかにめぐってあらわれるようになって居</tspan>
-<tspan x="10" y="56px">おりやはりそのまん中には上から下へかけて銀河がぼうとけむった</tspan>
-<tspan x="10" y="70px">ような帯になってその下の方ではかすかに爆発ばくはつして湯気で</tspan>
-<tspan x="10" y="84px">もあげているように見えるのでした。またそのうしろには三本の脚</tspan>
-<tspan x="10" y="98px">あしのついた小さな望遠鏡が黄いろに光って立っていましたしいち</tspan>
-<tspan x="10" y="112px">ばんうしろの壁かべには空じゅうの星座をふしぎな獣けものや蛇へ</tspan>
-<tspan x="10" y="126px">びや魚や瓶びんの形に書いた大きな図がかかっていました。ほんと</tspan>
-<tspan x="10" y="140px">うにこんなような蝎さそりだの勇士だのそらにぎっしり居るだろう</tspan>
-<tspan x="10" y="154px">か、ああぼくはその中をどこまでも歩いて見たいと思ってたりして</tspan>
-<tspan x="10" y="168px">しばらくぼんやり立って居ました。</tspan>
-<tspan x="10" y="182px">　それから俄にわかにお母さんの牛乳のことを思いだしてジョバン</tspan>
-<tspan x="10" y="196px">ニはその店をはなれました。そしてきゅうくつな上着の肩かたを気</tspan>
-<tspan x="10" y="210px">にしながらそれでもわざと胸を張って大きく手を振って町を通って</tspan>
-<tspan x="10" y="224px">行きました。</tspan>
-<tspan x="10" y="238px">　空気は澄すみきって、まるで水のように通りや店の中を流れまし</tspan>
-<tspan x="10" y="252px">たし、街燈はみなまっ青なもみや楢ならの枝で包まれ、電気会社の</tspan>
-<tspan x="10" y="266px">前の六本のプラタヌスの木などは、中に沢山たくさんの豆電燈がつ</tspan>
-<tspan x="10" y="280px">いて、ほんとうにそこらは人魚の都のように見えるのでした。子ど</tspan>
-<tspan x="10" y="294px">もらは、みんな新らしい折のついた着物を着て、星めぐりの口笛く</tspan>
-<tspan x="10" y="308px">ちぶえを吹ふいたり、</tspan>
-<tspan x="10" y="322px">「ケンタウルス、露つゆをふらせ。」と叫んで走ったり、青いマグ</tspan>
-</text>
-<line x1="" y1="2630" x2="20" y2="2630" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(2893,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
-<tspan x="10" y="0px">ネシヤの花火を燃したりして、たのしそうに遊んでいるのでした。</tspan>
-<tspan x="10" y="14px">けれどもジョバンニは、いつかまた深く首を垂れて、そこらのにぎ</tspan>
-<tspan x="10" y="28px">やかさとはまるでちがったことを考えながら、牛乳屋の方へ急ぐの</tspan>
-<tspan x="10" y="42px">でした。</tspan>
-<tspan x="10" y="56px">　ジョバンニは、いつか町はずれのポプラの木が幾本いくほんも幾</tspan>
-<tspan x="10" y="70px">本も、高く星ぞらに浮うかんでいるところに来ていました。その牛</tspan>
-<tspan x="10" y="84px">乳屋の黒い門を入り、牛の匂においのするうすくらい台所の前に立っ</tspan>
-<tspan x="10" y="98px">て、ジョバンニは帽子ぼうしをぬいで「今晩は、」と云いました</tspan>
-<tspan x="10" y="112px">ら、家の中はしぃんとして誰たれも居たようではありませんでした。</tspan>
-<tspan x="10" y="126px"></tspan>
-<tspan x="10" y="140px">「今晩は、ごめんなさい。」ジョバンニはまっすぐに立ってまた叫</tspan>
-<tspan x="10" y="154px">びました。するとしばらくたってから、年老とった女の人が、どこ</tspan>
-<tspan x="10" y="168px">か工合ぐあいが悪いようにそろそろと出て来て何か用かと口の中で</tspan>
-<tspan x="10" y="182px">云いました。</tspan>
-<tspan x="10" y="196px">「あの、今日、牛乳が僕ぼく※［＃小書き平仮名ん、168-12</tspan>
-<tspan x="10" y="210px">］とこへ来なかったので、貰もらいにあがったんです。」ジョバン</tspan>
-<tspan x="10" y="224px">ニが一生けん命勢いきおいよく云いました。</tspan>
-<tspan x="10" y="238px">「いま誰もいないでわかりません。あしたにして下さい。」</tspan>
-<tspan x="10" y="252px">　その人は、赤い眼の下のとこを擦こすりながら、ジョバンニを見</tspan>
-<tspan x="10" y="266px">おろして云いました。</tspan>
-<tspan x="10" y="280px">「おっかさんが病気なんですから今晩でないと困るんです。」</tspan>
-<tspan x="10" y="294px">「ではもう少したってから来てください。」その人はもう行ってし</tspan>
-<tspan x="10" y="308px">まいそうでした。</tspan>
-<tspan x="10" y="322px">「そうですか。ではありがとう。」ジョバンニは、お辞儀じぎをし</tspan>
-</text>
-<line x1="" y1="2893" x2="20" y2="2893" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(3156,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
-<tspan x="10" y="0px">て台所から出ました。</tspan>
-<tspan x="10" y="14px">　十字になった町のかどを、まがろうとしましたら、向うの橋へ行</tspan>
-<tspan x="10" y="28px">く方の雑貨店の前で、黒い影やぼんやり白いシャツが入り乱れて、</tspan>
-<tspan x="10" y="42px">六七人の生徒らが、口笛を吹いたり笑ったりして、めいめい烏瓜の</tspan>
-<tspan x="10" y="56px">燈火あかりを持ってやって来るのを見ました。その笑い声も口笛も、</tspan>
-<tspan x="10" y="70px">みんな聞きおぼえのあるものでした。ジョバンニの同級の子供ら</tspan>
-<tspan x="10" y="84px">だったのです。ジョバンニは思わずどきっとして戻もどろうとしま</tspan>
-<tspan x="10" y="98px">したが、思い直して、一そう勢よくそっちへ歩いて行きました。</tspan>
-<tspan x="10" y="112px">「川へ行くの。」ジョバンニが云おうとして、少しのどがつまった</tspan>
-<tspan x="10" y="126px">ように思ったとき、</tspan>
-<tspan x="10" y="140px">「ジョバンニ、らっこの上着が来るよ。」さっきのザネリがまた叫</tspan>
-<tspan x="10" y="154px">びました。</tspan>
-<tspan x="10" y="168px">「ジョバンニ、らっこの上着が来るよ。」すぐみんなが、続いて叫</tspan>
-<tspan x="10" y="182px">びました。ジョバンニはまっ赤になって、もう歩いているかもわか</tspan>
-<tspan x="10" y="196px">らず、急いで行きすぎようとしましたら、そのなかにカムパネルラ</tspan>
-<tspan x="10" y="210px">が居たのです。カムパネルラは気の毒そうに、だまって少しわらっ</tspan>
-<tspan x="10" y="224px">て、怒おこらないだろうかというようにジョバンニの方を見ていま</tspan>
-<tspan x="10" y="238px">した。</tspan>
-<tspan x="10" y="252px">　ジョバンニは、遁にげるようにその眼を避さけ、そしてカムパネ</tspan>
-<tspan x="10" y="266px">ルラのせいの高いかたちが過ぎて行って間もなく、みんなはてんで</tspan>
-<tspan x="10" y="280px">に口笛を吹きました。町かどを曲るとき、ふりかえって見ましたら、</tspan>
-<tspan x="10" y="294px">ザネリがやはりふりかえって見ていました。そしてカムパネルラ</tspan>
-<tspan x="10" y="308px">もまた、高く口笛を吹いて向うにぼんやり見える橋の方へ歩いて行っ</tspan>
-<tspan x="10" y="322px">てしまったのでした。ジョバンニは、なんとも云えずさびしくなっ</tspan>
-</text>
-<line x1="" y1="3156" x2="20" y2="3156" stroke="red" stroke-width="1"/><text transform="rotate(90 0 0) translate(3419,-350)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
-<tspan x="10" y="0px">て、いきなり走り出しました。すると耳に手をあてて、わああと</tspan>
-<tspan x="10" y="14px">云いながら片足でぴょんぴょん跳とんでいた小さな子供らは、ジョ</tspan>
-<tspan x="10" y="28px">バンニが面白おもしろくてかけるのだと思ってわあいと叫びました。</tspan>
-<tspan x="10" y="42px">まもなくジョバンニは黒い丘おかの方へ急ぎました。</tspan>
-<tspan x="10" y="56px"></tspan>
-<tspan x="10" y="70px">五、天気輪てんきりんの柱</tspan>
-<tspan x="10" y="84px"></tspan>
-<tspan x="10" y="98px">　牧場のうしろはゆるい丘になって、その黒い平らな頂上は、北の</tspan>
-<tspan x="10" y="112px">大熊星おおぐまぼしの下に、ぼんやりふだんよりも低く連って見え</tspan>
-<tspan x="10" y="126px">ました。</tspan>
-<tspan x="10" y="140px">　ジョバンニは、もう露の降りかかった小さな林のこみちを、どん</tspan>
-<tspan x="10" y="154px">どんのぼって行きました。まっくらな草や、いろいろな形に見える</tspan>
-<tspan x="10" y="168px">やぶのしげみの間を、その小さなみちが、一すじ白く星あかりに照</tspan>
-<tspan x="10" y="182px">らしだされてあったのです。草の中には、ぴかぴか青びかりを出す</tspan>
-<tspan x="10" y="196px">小さな虫もいて、ある葉は青くすかし出され、ジョバンニは、さっ</tspan>
-<tspan x="10" y="210px">きみんなの持って行った烏瓜からすうりのあかりのようだとも思い</tspan>
-<tspan x="10" y="224px">ました。</tspan>
-<tspan x="10" y="238px">　そのまっ黒な、松や楢ならの林を越こえると、俄にわかにがらん</tspan>
-<tspan x="10" y="252px">と空がひらけて、天あまの川がわがしらしらと南から北へ亘わたっ</tspan>
-<tspan x="10" y="266px">ているのが見え、また頂いただきの、天気輪の柱も見わけられたの</tspan>
-<tspan x="10" y="280px">でした。つりがねそうか野ぎくかの花が、そこらいちめんに、夢ゆ</tspan>
-<tspan x="10" y="294px">めの中からでも薫かおりだしたというように咲き、鳥が一疋ぴき、</tspan>
-<tspan x="10" y="308px">丘の上を鳴き続けながら通って行きました。</tspan>
-<tspan x="10" y="322px">　ジョバンニは、頂の天気輪の柱の下に来て、どかどかするからだ</tspan>
-</text>
-<line x1="" y1="3419" x2="20" y2="3419" stroke="red" stroke-width="1"/><text transform="rotate(-90 0 0) translate(-263,395)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
+<text font-size="4" transform="rotate(90 0 0) translate(919,-10)">4</text><text transform="rotate(-90 0 0) translate(-263,395)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
 <tspan x="10" y="230px">表紙</tspan></text>
 <text transform="rotate(-90 0 0) translate(-526,395)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
 <tspan x="10" y="230px">裏表紙</tspan></text>
@@ -398,7 +138,7 @@
 <tspan x="10" y="308px">「ああ三時ころ帰ったよ。みんなそこらをしてくれてね。」</tspan>
 <tspan x="10" y="322px">「お母さんの牛乳は来ていないんだろうか。」</tspan>
 </text>
-<text transform="rotate(-90 0 0) translate(-1052,395)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
+<text font-size="4" transform="rotate(-90 0 0) translate(-659,730)">6</text><text transform="rotate(-90 0 0) translate(-1052,395)" font-fammily="Shippori Mincho" font-size="8" stlye="padding:5px;">
 <tspan x="10" y="0px">シェードをかけたりした人たちが、何か歌うように読んだり数えた</tspan>
 <tspan x="10" y="14px">りしながらたくさん働いて居おりました。</tspan>
 <tspan x="10" y="28px">　ジョバンニはすぐ入口から三番目の高い卓子テーブルに座すわっ</tspan>
@@ -424,4 +164,4 @@
 <tspan x="10" y="308px">いろがよくなって威勢いせいよくおじぎをすると台の下に置いた鞄</tspan>
 <tspan x="10" y="322px">かばんをもっておもてへ飛びだしました。それから元気よく口笛く</tspan>
 </text>
-</svg>
+<text font-size="4" transform="rotate(-90 0 0) translate(-922,730)">5</text></svg>
